@@ -56,9 +56,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 ## index.html
-'''
-
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -168,9 +166,9 @@ Upload to GitHub Pages for free hosting.
 </body>
 </html>
 
-'''
+```
 ## style.css
-'''
+```
 body {
     font-family: sans-serif;
     margin: 0;
@@ -548,10 +546,15 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
             });
         });
-'''
+```
 
 
 ## OUTPUT
+![Screenshot 2025-05-01 180410](https://github.com/user-attachments/assets/6b3052a7-1ee3-4256-ad22-0d08c57a5263)
+![Screenshot 2025-05-01 180431](https://github.com/user-attachments/assets/1add963d-c770-464f-8301-7b651ac2c73b)
+![Screenshot 2025-05-01 180454](https://github.com/user-attachments/assets/200f594e-2291-420f-9131-8944d4e3b41a)
+![Screenshot 2025-05-01 180517](https://github.com/user-attachments/assets/f443b310-3af0-433d-93b3-741abaa06669)
+![Screenshot 2025-05-01 180552](https://github.com/user-attachments/assets/02fef5b9-820a-40b7-b16a-8841f958fd38)
 
 
 ## RESULT
